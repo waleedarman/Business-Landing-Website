@@ -1,4 +1,3 @@
-
 # 🌐 Business Landing Website
 
 A clean and responsive **Business Landing Page** built with **HTML and CSS**.  
@@ -24,3 +23,22 @@ Designed for businesses, startups, or agencies to present their services in a si
 ---
 
 ## 📂 Project Structure
+```
+Business-Landing-Website/
+│── index.html
+│── /css        # Stylesheets
+│── /images     # Assets (logos, backgrounds, etc.)
+```
+
+---
+
+## 🚀 Getting Started
+1. Download or clone this repository.  
+2. Open `index.html` directly in your browser.  
+3. Edit the text, colors, and images to fit your business.  
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License**.  
+You can use, modify, and share it freely.
